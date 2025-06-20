@@ -1,0 +1,58 @@
+/* filepath: src/app/details/details.page.scss */
+
+/* Estilização geral */
+.character-details-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 16px;
+}
+
+ion-card {
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto;
+  border-radius: 18px;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.10);
+  animation: fadeInCard 0.7s;
+}
+
+.character-image {
+  width: 100%;
+  border-radius: 18px 18px 0 0;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  animation: fadeInImg 1s;
+}
+
+ion-card-title, ion-card-subtitle {
+  text-align: center;
+}
+
+ion-list {
+  margin-top: 8px;
+}
+
+ion-item {
+  --background: transparent;
+  border-bottom: 1px solid #ececec;
+}
+
+.loading-container, .no-character-found {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 40vh;
+  color: #888;
+}
+
+/* Animações */
+@keyframes fadeInCard {
+  from { opacity: 0; transform: translateY(30px);}
+  to   { opacity: 1; transform: translateY(0);}
+}
+
+@keyframes fadeInImg {
+  from { opacity: 0; transform: scale(0.95);}
+  to   { opacity: 1; transform: scale(1);}
+}
