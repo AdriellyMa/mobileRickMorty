@@ -78,4 +78,5 @@ Licença
 
 Este projeto está licenciado sob a Licença Creative Commons - veja o arquivo LICENSE para detalhes.
 
+![Pagina Inicial](https://github.com/user-attachments/assets/927bb2de-7692-414b-a76c-dc71f08a23a0)
 
