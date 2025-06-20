@@ -79,3 +79,5 @@ Licença
 Este projeto está licenciado sob a Licença Creative Commons - veja o arquivo LICENSE para detalhes.
 
 
+
+![Pesquisa](https://github.com/user-attachments/assets/74c95cb0-2325-4099-b639-5e6d0b1a399f)
