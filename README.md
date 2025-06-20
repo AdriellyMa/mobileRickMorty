@@ -22,7 +22,7 @@ Como baixar
 1.
 Clone o repositório:
 
-git clone https://github.com/seuusuario/mobileRickMorty.git
+git clone https://github.com/AdriellyMa/mobileRickMorty.git
 
 2.
 Navegue até o diretório do projeto:
